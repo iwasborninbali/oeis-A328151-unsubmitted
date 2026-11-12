@@ -1,0 +1,4 @@
+square lookup range: 100000
+bijection identity: PASS for m <= 223
+even minima compared: [1, 2, 3, 4, 5, 6, 8, 9]
+PASS
