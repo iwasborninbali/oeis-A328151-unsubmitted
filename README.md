@@ -1,7 +1,7 @@
 # OEIS A328151: Schoenfield's parity identities (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 14 Nov 2026).
+**OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
 - [A328151](https://oeis.org/A328151), Schoenfield's identities proved (D(2m^2) = D(m^2)): **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
 
